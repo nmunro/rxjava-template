@@ -11,6 +11,7 @@ Or you can use this repository as a template
 ## Running
 
 `mvn clean install`
+
 `mvn exec:java -Dexec.mainClass="com.mycompany.App"`
 
 
